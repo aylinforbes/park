@@ -1,0 +1,8 @@
+body {
+    background-color:black;
+}
+
+.carousel > .carousel-inner > .carousel-item > img{
+    width:cover; 
+    height:700px;
+}
